@@ -1,0 +1,54 @@
+﻿drug_name,drug_smiles
+Myricetin,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+Doxorubicin hydrochloride,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl
+Ferulic Acid,COC1=C(C=CC(=C1)C=CC(=O)O)O
+Anethole trithione,COC1=CC=C(C=C1)C2=CC(=S)SS2
+Artemether,CC1CCC2C(C(OC3C24C1CCC(O3)(OO4)C)OC)C
+Arbutin,C1=CC(=CC=C1O)OC2C(C(C(C(O2)CO)O)O)O
+Naringin,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O
+Dihydromyricetin,C1=C(C=C(C(=C1O)O)O)C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+Naringin dihydrochalcone,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O
+Neohesperidin Dihydrochalcone,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC(=C(C=C4)OC)O)O)CO)O)O)O)O)O
+Luteolin,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
+Coumarin,C1=CC=C2C(=C1)C=CC(=O)O2
+Troxerutin,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)OCCO)C5=CC(=C(C=C5)OCCO)OCCO)O)O)O)O)O)O
+Nicotinic acid,C1=CC(=CN=C1)C(=O)O
+Hyodeoxycholic acid,CC(CCC(=O)O)C1CCC2C1(CCC3C2CC(C4C3(CCC(C4)O)C)O)C
+Caffeic Acid,C1=CC(=C(C=C1C=CC(=O)O)O)O
+Puerarin,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3C4C(C(C(C(O4)CO)O)O)O)O)O
+Emodin,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O
+Methoxypsoralen,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2
+Diosmetin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
+Pectolinarin,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(C(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)OC)O)OC)O)O)O)O)O)O
+Rebaudioside ,
+Sophoricoside,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)OC4C(C(C(C(O4)CO)O)O)O
+Decenoic acid,CCCCCCCC=CC(=O)O
+Liquiritigenin,C1C(OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O
+Tectoridin,COC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=CC=C(C=C3)O)OC4C(C(C(C(O4)CO)O)O)O
+Calycosin-7-O-beta-D-glucoside,COC1=C(C=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)O
+Vitexin-2''-O-rhamnoside,"CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O
+CC1C(C(C(C(O1)OC2C(C(C(OC2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O"
+syringaldehyde ,COC1=CC(=CC(=C1O)OC)C=O
+Kaempferitrin,CC1C(C(C(C(O1)OC2=CC(=C3C(=C2)OC(=C(C3=O)OC4C(C(C(C(O4)C)O)O)O)C5=CC=C(C=C5)O)O)O)O)O
+Vanillylacetone,CC(=O)CCC1=CC(=C(C=C1)O)OC
+(-)-Gallocatechin gallate,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
+Typhaneoside,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)OC)OC6C(C(C(C(O6)C)O)O)O)O)O)O)O)O
+Methyl gallate,COC(=O)C1=CC(=C(C(=C1)O)O)O
+Tectorigenin,COC1=C(C2=C(C=C1O)OC=C(C2=O)C3=CC=C(C=C3)O)O
+Shanzhiside methyl ester,CC1(CC(C2C1C(OC=C2C(=O)OC)OC3C(C(C(C(O3)CO)O)O)O)O)O
+Fumaric acid,C(=CC(=O)O)C(=O)O
+Caffeic Acid Phenethyl Ester,C1=CC=C(C=C1)CCOC(=O)C=CC2=CC(=C(C=C2)O)O
+Octyl gallate,CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O
+Epimedin B,CC1C(C(C(C(O1)OC2=C(OC3=C(C2=O)C(=CC(=C3CC=C(C)C)OC4C(C(C(C(O4)CO)O)O)O)O)C5=CC=C(C=C5)OC)OC6C(C(C(CO6)O)O)O)O)O
+Vanillic Acid,COC1=C(C=CC(=C1)C(=O)O)O
+Propyl gallate,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O
+p-Hydroxybenzaldehyde,C1=CC(=CC=C1C=O)O
+Tiliroside,C1=CC(=CC=C1C=CC(=O)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O
+4-Methoxysalicylic acid,COC1=CC(=C(C=C1)C(=O)O)O
+FERULIC ACID METHYL ESTER,COC1=C(C=CC(=C1)C=CC(=O)OC)O
+Orientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O)O
+Isochlorogenic acid C,"C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)OC(=O)C=CC3=CC(=C(C=C3)O)O)O
+C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)OC(=O)C=CC3=CC(=C(C=C3)O)O)O
+C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)OC(=O)C=CC3=CC(=C(C=C3)O)O)O"
